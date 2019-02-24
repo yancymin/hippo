@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="36px" viewBox="0 0 41 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Design work </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.2%" y="-14.5%" width="120.0%" height="128.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.607222577   0 0 0 0 0.431142095   0 0 0 0 0.0360346731  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="8.30175805 6.16513327 34.4379349 6.30119402 34.5276264 23.4985695 26.502689 32.2885819 8.43751219 32.1945375"></polygon>
+        <filter x="-11.4%" y="-11.5%" width="122.9%" height="123.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.141983696 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-" transform="translate(-826.000000, -393.000000)">
+            <g id="电脑屏幕" transform="translate(605.000000, 341.000000)">
+                <g id="分组-2" transform="translate(209.000000, 33.000000)">
+                    <g id="Design-work-" transform="translate(0.000000, 15.000000)">
+                        <g transform="translate(11.000000, 3.000000)">
+                            <g id="Design-work" filter="url(#filter-1)" transform="translate(1.000000, 2.000000)">
+                                <path d="M9.86148571,4.99910099 L32.7359169,4.99910099 C35.0263522,4.99910099 36.8831169,6.85586567 36.8831169,9.14630099 L36.8831169,33.8094096 L5.71428571,33.8094096 L5.71428571,9.14630099 C5.71428571,6.85586567 7.5710504,4.99910099 9.86148571,4.99910099 Z" id="Rectangle-25" fill="#D1A84C"></path>
+                                <g id="Rectangle-26" transform="translate(21.414692, 19.226858) rotate(50.000000) translate(-21.414692, -19.226858) ">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                </g>
+                                <path d="M3.02538034,12.8564579 L25.8825232,12.8564579 C28.1777325,12.8564579 30.6398142,14.7326491 31.3817364,17.0470482 L36.7552126,33.8094096 L5.58638144,33.8094096 L0.212905234,17.0470482 C-0.529017006,14.7326491 0.730170989,12.8564579 3.02538034,12.8564579 Z" id="Rectangle-25-Copy" fill="#FBE222"></path>
+                            </g>
+                            <polygon id="L" fill="#D1A84C" points="13.4296758 21.8743987 15.8359258 21.8743987 17.9922466 28.9296875 23.6953716 28.9296875 24.328125 31 16.21875 31"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

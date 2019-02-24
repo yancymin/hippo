@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="32px" viewBox="0 0 41 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>weixin </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.2%" y="-8.1%" width="112.5%" height="116.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.359446707   0 0 0 0 0.446800595   0 0 0 0 0.372596754  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0 40 0 40 31 0 31"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-" transform="translate(-906.000000, -536.000000)">
+            <g id="电脑屏幕" transform="translate(605.000000, 341.000000)">
+                <g id="分组-2" transform="translate(209.000000, 33.000000)">
+                    <g id="WeChat-" transform="translate(80.000000, 151.000000)">
+                        <g id="weixin-" transform="translate(11.000000, 4.000000)">
+                            <g id="weixin" filter="url(#filter-1)" transform="translate(1.000000, 7.000000)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <path d="M27.0785878,9.37992341 C27.5383826,9.37992341 27.991699,9.41094092 28.4416665,9.45940919 C27.2173223,4.0321116 21.1181659,0 14.1571208,0 C6.37514309,0 0,5.04781182 0,11.4561269 C0,15.1559628 2.12142424,18.1933807 5.66549453,20.5497265 L4.25009539,24.6004376 L9.19973757,22.2389497 C10.9700708,22.5724836 12.3917286,22.9148249 14.1584384,22.9148249 C14.6029707,22.9148249 15.0428364,22.893709 15.4801218,22.8614333 C15.2028175,21.9613786 15.0428364,21.0177243 15.0428364,20.039442 C15.0428364,14.1550328 20.3549341,9.37992341 27.0785878,9.37992341 Z" id="路径" fill="#7ED53E" mask="url(#mask-3)"></path>
+                                <ellipse id="椭圆形" fill="#126F20" mask="url(#mask-3)" cx="19.6" cy="7.55128205" rx="2" ry="1.98717949"></ellipse>
+                                <ellipse id="椭圆形-copy-2" fill="#126F20" mask="url(#mask-3)" cx="9.32610289" cy="7.55128205" rx="2" ry="1.98717949"></ellipse>
+                                <path d="M40,19.8774617 C40,14.4935449 34.3357682,10.1030635 27.9743503,10.1030635 C21.2380694,10.1030635 15.9334931,14.4924508 15.9334931,19.8774617 C15.9334931,25.2727024 21.2393321,29.6531182 27.9743503,29.6531182 C29.3835457,29.6531182 30.8064662,29.3146608 32.2218654,28.9772429 L36.1048387,31 L35.0402561,27.6341904 C37.8837364,25.6049781 40,22.9148249 40,19.8774617 Z" id="路径" fill="#EEF1F2" mask="url(#mask-3)"></path>
+                                <ellipse id="椭圆形" fill="#7B7F7F" mask="url(#mask-3)" cx="24" cy="16.6923077" rx="1.6" ry="1.58974359"></ellipse>
+                                <ellipse id="椭圆形-copy" fill="#7B7F7F" mask="url(#mask-3)" cx="32" cy="16.6923077" rx="1.6" ry="1.58974359"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
