@@ -3,14 +3,14 @@
     <div class="container">
       <ul class="icon-wrap">
         <li class="icon">
-          <a href="https://google.com">
+          <a href="http://www.lofter.com/theme/hwoma" target="_blank">
             <div class="img-wrap">
               <img src="../assets/design-work.svg" alt>
             </div>Work
           </a>
         </li>
         <li class="icon">
-          <a href="https://google.com">
+          <a href="https://my.zcool.com.cn/setting" target="_blank">
             <div class="img-wrap">
               <img src="../assets/zcool.svg" alt>
             </div>站酷
@@ -20,35 +20,35 @@
           <a href>/</a>
         </li>
         <li class="icon">
-          <a href="https://google.com">
+          <a href="https://www.weibo.com/3175887084" target="_blank">
             <div class="img-wrap">
               <img src="../assets/weibo1.svg" alt>
             </div>Weibo
           </a>
         </li>
         <li class="icon">
-          <a href="https://google.com">
+          <a href="https://dribbble.com/Bhippo" target="_blank">
             <div class="img-wrap">
               <img src="../assets/dribbble.svg" alt>
             </div>Dribbble
           </a>
         </li>
         <li class="icon">
-          <a href="https://google.com">
+          <a href="https://www.instagram.com/huoma_z/" target="_blank">
             <div class="img-wrap">
               <img src="../assets/ig.svg" alt>
             </div>Instagram
           </a>
         </li>
         <li class="icon">
-          <a href="https://google.com">
+          <a href="mailto:me@yancymin.design" target="_blank">
             <div class="img-wrap">
               <img src="../assets/Email.svg" alt>
             </div>Email me
           </a>
         </li>
         <li class="icon">
-          <a href="https://google.com">
+          <a>
             <div class="img-wrap">
               <img src="../assets/wechat.svg" alt>
             </div>WeChat
@@ -100,6 +100,7 @@
     height: 400px;
     background: url("../assets/screen-bg.jpg");
     background-size: cover;
+    overflow: hidden;
 
     .icon-wrap {
       position: absolute;
@@ -182,10 +183,10 @@
     .dialog {
       z-index: 999;
       opacity: 1;
-      /* position: absolute; */
 
       .dialog-wrap {
         li {
+          opacity: 0;
           display: flex;
           justify-content: flex-start;
           align-items: center;
@@ -198,6 +199,7 @@
           text-align: left;
           right: 0;
           margin-right: 20px;
+          animation: dialogShow 0.6s ease-in-out forwards;
 
           p {
             transform: scale(0.9);
@@ -227,12 +229,25 @@
 
           &:nth-of-type(1) {
             top: 20px;
+            animation-delay: 1.2s;
+              transform: translateX(100px);
           }
           &:nth-of-type(2) {
             top: 75px;
+            animation-delay: 1.8s;
+              transform: translateX(100px);
           }
           &:nth-of-type(3) {
             top: 130px;
+            animation-delay: 2.4s;
+              transform: translateX(100px);
+          }
+
+          @keyframes dialogShow {
+           to {
+             transform: translateX(0);
+             opacity: 1;
+           }
           }
         }
       }
