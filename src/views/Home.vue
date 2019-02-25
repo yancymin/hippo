@@ -3,14 +3,14 @@
     <div class="container">
       <ul class="icon-wrap">
         <li class="icon">
-          <a href="http://www.lofter.com/theme/hwoma" target="_blank">
+          <a href="http://hwoma.lofter.com/post/2006399c_12df62af6 " target="_blank">
             <div class="img-wrap">
               <img src="../assets/design-work.svg" alt>
             </div>Work
           </a>
         </li>
         <li class="icon">
-          <a href="https://my.zcool.com.cn/setting" target="_blank">
+          <a href="https://www.zcool.com.cn/u/17018264" target="_blank">
             <div class="img-wrap">
               <img src="../assets/zcool.svg" alt>
             </div>站酷
@@ -34,14 +34,14 @@
           </a>
         </li>
         <li class="icon">
-          <a href="https://www.instagram.com/huoma_z/" target="_blank">
+          <a href="https://www.instagram.com/huoma_bao/" target="_blank">
             <div class="img-wrap">
               <img src="../assets/ig.svg" alt>
             </div>Instagram
           </a>
         </li>
         <li class="icon">
-          <a href="mailto:me@yancymin.design" target="_blank">
+          <a href="mailto:947588644@qq.com" target="_blank">
             <div class="img-wrap">
               <img src="../assets/Email.svg" alt>
             </div>Email me
