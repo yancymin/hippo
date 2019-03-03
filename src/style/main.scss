@@ -214,29 +214,29 @@ svg {
     transition-delay: 0.05s;
 }
 
-@media (max-width:414px) {
-    .home {
-        background: none;
+// @media (max-width:414px) {
+//     .home {
+//         background: none;
 
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 100vw;
-            height: 100vh;
-            // background-size: 100vw 100vh;
-            box-shadow: none;
-            background-position: center;
+//         .container {
+//             display: flex;
+//             justify-content: center;
+//             align-items: center;
+//             width: 100vw;
+//             height: 100vh;
+//             // background-size: 100vw 100vh;
+//             box-shadow: none;
+//             background-position: center;
 
-            .icon-wrap {
-                position: unset;
-                margin-top: -50%;
-                transform: scale(1.2);
-            }
+//             .icon-wrap {
+//                 position: unset;
+//                 margin-top: -50%;
+//                 transform: scale(1.2);
+//             }
 
-            .dialog {
-                display: none;
-            }
-        }
-    }
-}
+//             .dialog {
+//                 display: none;
+//             }
+//         }
+//     }
+// }
