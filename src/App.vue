@@ -13,11 +13,6 @@
   background-color: #1B1A19;
 }
 
-/* http://meyerweb.com/eric/tools/css/reset/
-   v4.0 | 20180602
-   License: none (public domain)
-*/
-
 html,
 body,
 div,
