@@ -189,7 +189,7 @@ svg {
     height: 80px;
     background: url('../assets/QR.png') no-repeat center;
     background-size: 80px 80px;
-    transform: translateY(-6px);
+    transform: translateY(-20px) scale(1.05);
 
 
     &::before {
@@ -209,7 +209,7 @@ svg {
 .qrShow {
     z-index: 999;
     opacity: 1;
-    transition: all 0.3s ease-in;
-    transform: translateY(0);
-    transition-delay: 0.06s;
+    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transform: translateY(0) scale(1);
+    transition-delay: 0.05s;
 }
