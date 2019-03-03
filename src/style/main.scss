@@ -214,7 +214,7 @@ svg {
     transition-delay: 0.05s;
 }
 
-@media screen and(min-width:720px) {
+@media (max-width:414px) {
     .home {
         background: none;
 
@@ -231,7 +231,7 @@ svg {
             .icon-wrap {
                 position: unset;
                 margin-top: -50%;
-                transform: scale(3);
+                transform: scale(1.2);
             }
 
             .dialog {
